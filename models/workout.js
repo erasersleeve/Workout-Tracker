@@ -7,6 +7,7 @@ const WorkoutSchema = new Schema({
     type: String,
     unique: true
   },
+  day: new Date().setDate(new Date()),
   exercises: [
     {
       type: Schema.Types.ObjectId,
@@ -14,7 +15,5 @@ const WorkoutSchema = new Schema({
     }
   ]
 });
-
 const Workout = mongoose.model("Workout", WorkoutSchema);
-
 module.exports = Workout;
