@@ -41,6 +41,8 @@ app.get("/stats", (req, res) => {
 //   .then(data => {
 //     populateChart(data);
 //   });
+
+//exercise get is not necessary I think
 app.get("/exercises", (req, res) => {
     db.Exercise.find({})
       .then(dbExercise => {
