@@ -11,8 +11,6 @@ app.use(logger("dev"));
 const db = require("./models");
 
 
-
-
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
