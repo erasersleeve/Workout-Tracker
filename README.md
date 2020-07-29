@@ -29,5 +29,5 @@
 ![4](https://github.com/erasersleeve/Workout-Tracker/blob/master/public/assets/images/Capture%20d%E2%80%99%C3%A9cran%20(75).png?raw=true)
 
   ## Questions
-  If you have any questions about this repo, open an issue or contact me directly at [tim@email.com](mailto:tim@email.com). You can find more of my work at (https://github.com/erasersleeve).
+  If you have any questions about this repo, open an issue or contact me at (https://github.com/erasersleeve).
   
